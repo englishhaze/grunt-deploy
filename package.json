@@ -1,0 +1,14 @@
+{
+  "name": "grunt-deploy",
+  "version": "1.0.0",
+  "description": "Grunt deploy sample",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prw",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
